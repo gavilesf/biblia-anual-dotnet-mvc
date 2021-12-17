@@ -1,0 +1,10 @@
+
+BibliaEnUnAnio/obj/
+/BibliaEnUnAnio/bin/Debug/net5.0/appsettings.Development.json
+/BibliaEnUnAnio/bin/Debug/net5.0
+/.vs/BibliaEnUnAnio/config
+/BibliaEnUnAnio/appsettings.Development.json
+
+BibliaEnUnAnio/bin/
+
+BibliaEnUnAnio/BibliaEnUnAnio.csproj.user
